@@ -1,4 +1,7 @@
 **NAPT**
+
+
+
 An emulation of NAPT systems.
 Performs address translation and port translation for outbound packets and inbound packets.
 Packets are assumed to be logical packets, that are actually wrapped inside real IP packets.
