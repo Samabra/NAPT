@@ -17,7 +17,8 @@ Deletes any idle mappings.
 The transport protocol used is UDP.
 
 
-Supports fragmentation and (soon reassembly).
+Supports fragmentation and reassembly (including out of order fragments)
 
 
-Project is still in progress.
+Finalised implementation
+
