@@ -22,3 +22,5 @@ Supports fragmentation and reassembly (including out of order fragments)
 
 Finalised implementation
 
+The sample client is unfinished as of now. External hop program currently in development.
+
